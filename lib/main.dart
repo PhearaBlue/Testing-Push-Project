@@ -8,7 +8,7 @@ void main(){
 class MyApp extends StatelessWidget {
   const MyApp ({Key? key}):super(key: key);
   // testing push git
-  // testing by pheara_branch2
+  // testing by pheara_branch2 up to date
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
